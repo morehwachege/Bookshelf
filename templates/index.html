@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+{% load static %}
+					{% block title%} Random Selection {% endblock title%}
+					{% block nav_block %}
+					<ul class="text-grey lg:text-grey-dark list-reset leading-loose mt-2" id="sidenav-categories">
+							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">
+								<span><a href="{{home}}">Fantasy</a></span>
+
+							</li>
+							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Nonfiction</li>
+							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Lifestyle</li>
+							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Health &amp; Fitness</li>
+							<li class="text-indigo-lighter lg:text-indigo-darker font-medium flex justify-between items-center hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4 mobile-home-trigger">
+								<span><a href="{{home}}">Art & Design</a></span>
+							</li>
+							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Music</li>
+						</ul>
+					{% endblock nav_block %}
+
+					{%block book_content %}
+					{% for books in book_list %}
+					<div class="flex flex-row sm:flex-col items-center sm:items-start w-full xs:w-1/2 sm:w-1/3 md:w-1/5 p-4 js-book">
+						<img src="{{complete_link}}{{books.1}}" alt="book-01" class="w-1/3 sm:w-full shadow-md transition-normal hover:brighter hover:translate-y-1 hover:shadow-lg hover:border-indigo">
+						<div class="ml-3 sm:ml-0 w-2/3 sm:w-full">
+							<p class="text-sm my-2 font-medium sm:font-normal">{{books.2}}</p>
+							<p class="block sm:hidden mt-2 mb-3 text-sm leading-medium">{{book.2}}</p>
+							<label for="" class="hidden sm:inline-block rounded-full libre-bg-grey text-white px-2 py-1/2 text-xs">
+								<a href="{{complete_link}}{{books.0}}">Read</a>
+							</label>
+							<div class="block sm:hidden relative">
+
+								<a href="{{complete_link}}{{books.0}}">
+								<button class="block btn appearance-none w-full text-sm bg-white border border-grey-light hover:border-grey pl-3 py-1 pr-8 rounded shadow leading-normal focus:outline-none focus:shadow-outline">
+									Read
+								</button>
+								</a>
+							</div>
+						</div>
+					</div>
+					{% endfor%}
+					{% endblock book_content %}
+
+<!--				end of Librarie-->
+

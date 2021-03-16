@@ -61,14 +61,14 @@ $ pip install requests
 - [Manybooks](https://manybooks.net/)
 
 ## License
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.](http://linkedin.com/in/morehwachege/)
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.](https://www.linkedin.com/in/antonymuriithi)
 
 
 ## Misc
-Follow morehwachege: [Website](https://www.librarie.co.ke), [Linkedin](https://linkedin/in/morehwachege), [Twitter](https://twitter.com/morehwachege), [Facebook](https://facebook.com/morewachege)
+Follow morehwachege: [Website](https://www.librarie.co.ke), [Linkedin](https://linkedin.com/in/antonymuriithi), [Twitter](https://twitter.com/morehwachege), [Facebook](https://facebook.com/morehwachege)
 
 Follow femar: [Website](https://www.omba.site/), [Dribbble](http://www.dribbble.com/fescii), [Github](https://github.com/fescii), [Twitter](https://twitter.com/femar_will), [Medium](https://medium.com/@)
 
 [© aduki, Inc 2021](http://www.aduki.net)
-[© Moreh Wa Chege](https://linkedin.com/in/morehwachege)
+[© Moreh Wa Chege](https://linkedin.com/in/antonymuriithi)
 [© Bookshelf 2021](http://www.librarie.co.ke)

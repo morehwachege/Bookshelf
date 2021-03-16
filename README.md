@@ -1,5 +1,5 @@
 # Bookshelf
-# Libre - a reponsive single page app template for collection management projects.
+# Libre - a Book Scrapping Project To Help Find Books Easily.
 
 ![Libre](./Screenshot1.png)
 

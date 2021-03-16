@@ -3,7 +3,7 @@
 
 ![Libre](./Screenshot1.png)
 
-Libre is a responsive single page app template designed to filter data from web-applications as a mirror site to ease consumer reach of books. Built with tailwind.css and vanilla javascript of the front end, it incorporates python for task automation. Libre scrapes data on the backend from  the manybooks website gathering images, links and names for each iteration of a single book using python packages such as Beautiful Soup 4, requests and a html parser -> lxml parser.
+Libre is a responsive single page app designed to filter data from web-applications as a mirror site to ease consumer reach of books. Built with tailwind.css and vanilla javascript of the front end, it incorporates python for task automation. Libre scrapes data on the backend from  the manybooks website gathering images, links and names for each iteration of a single book using python packages such as Beautiful Soup 4, requests and a html parser -> lxml parser.
 
 ## Running the project locally -> Front-end manipulation
 ### Front end manipulation is not crucial so if you just want to render the project skip to backend manipulation section

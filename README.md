@@ -61,7 +61,7 @@ $ pip install requests
 - [Manybooks](https://manybooks.net/)
 
 ## License
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.]()
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.](http://linkedin.com/in/morehwachege/)
 
 
 ## Misc

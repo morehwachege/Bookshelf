@@ -1,19 +1,35 @@
 <!DOCTYPE html>
 {% extends 'base.html' %}
-					{% block title%} Random Selection {% endblock title%}
+{% load static %}
+					{% block title%} Mystery/Detective Books {% endblock title%}
 					{% block nav_block %}
 					<ul class="text-grey lg:text-grey-dark list-reset leading-loose mt-2" id="sidenav-categories">
 							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">
-								<span><a href="{{home}}">Fantasy</a></span>
-
+								<a href="{% url 'fantasy_books' %}" >Fantasy</a>
 							</li>
 							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Nonfiction</li>
 							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Lifestyle</li>
 							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Health &amp; Fitness</li>
 							<li class="text-indigo-lighter lg:text-indigo-darker font-medium flex justify-between items-center hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4 mobile-home-trigger">
-								<span><a href="{{home}}">Art & Design</a></span>
+								<span><a href="{{home}}\">Art & Design</a></span>
 							</li>
 							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">Music</li>
+                        <li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">
+                            <a href="{% url 'politics_books' %}" >Politics</a>
+                        </li>
+                        <li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">
+                            <span><a href="{% url 'thriller_books' %}" >Thriller </a></span>
+                        </li>
+							<li class="hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-grey-dark pl-4">
+									<span><a href="{% url 'mystery_books' %}" >Mystery </a></span>
+								<span class="bg-indigo-dark text-white text-xs rounded-full px-2 leading-normal">
+										{% if book_number %}
+										{{book_number}}
+										{% else %}
+										<p>No Book</p>
+										{%endif%}
+									</span>
+								</li>
 						</ul>
 					{% endblock nav_block %}
 

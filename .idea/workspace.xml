@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b40af5f4-2bd4-419a-bc26-e130de88cedd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/customstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/customstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/children.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/output.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pqPpEvDg0uZqBSKl8BpIR39Jyb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

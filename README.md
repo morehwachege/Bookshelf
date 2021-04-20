@@ -49,8 +49,6 @@ $ pip install requests
 
 ```
 
-## Live Demo
-👋 [Libre Live Demo](http://librarie.co.ke)
 
 ## Credits
 - [Browserify](http://browserify.org/)
@@ -63,8 +61,8 @@ $ pip install requests
 ## License
 Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.](https://www.linkedin.com/in/antonymuriithi)
 
-## This project
-Is currently running.
+## This project Demo
+👋 Is currently running.
 Click [Live-Demo](https://frozen-fjord-26216.herokuapp.com/)
 Explore it and feel free to drop your feedback.
 

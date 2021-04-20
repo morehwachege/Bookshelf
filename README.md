@@ -63,9 +63,14 @@ $ pip install requests
 ## License
 Use it freely but please do not republish, distribute or sell "as-is". [Read more about Us.](https://www.linkedin.com/in/antonymuriithi)
 
+## This project
+Is currently running.
+Click [Live-Demo](https://frozen-fjord-26216.herokuapp.com/)
+Explore it and feel free to drop your feedback.
 
 ## Misc
 Follow morehwachege: [Website](https://www.librarie.co.ke), [Linkedin](https://linkedin.com/in/antonymuriithi), [Twitter](https://twitter.com/morehwachege), [Facebook](https://facebook.com/morehwachege)
+
 
 Follow femar: [Website](https://www.omba.site/), [Dribbble](http://www.dribbble.com/fescii), [Github](https://github.com/fescii), [Twitter](https://twitter.com/femar_will), [Medium](https://medium.com/@)
 

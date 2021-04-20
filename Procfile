@@ -1,1 +1,1 @@
-web: gunicorn bookshelf_repository.wsgi --log-file -
+web: gunicorn Librarie.wsgi --log-file -

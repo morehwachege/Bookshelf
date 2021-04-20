@@ -3,7 +3,7 @@ from .views import home, fantasy, politics, thriller, mystery,children, humour, 
 
 urlpatterns = [
     path('', home, name='home'),
-    path('fantasy/', fantasy, name='fantasy_books'),
+    path('fantasy/', fantasy, name='fantasy'),
     path('politics/', politics, name='politics_books'),
     path('thriller/', thriller, name='thriller_books'),
     path('mystery/', mystery, name='mystery_books'),

@@ -3,6 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="b40af5f4-2bd4-419a-bc26-e130de88cedd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Books/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Books/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/adventure.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/adventure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/african.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/african.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/children.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/children.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/fantasy.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/fantasy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ghost.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ghost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/havard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/havard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/health.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/health.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/humour.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/humour.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mystery.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mystery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pirate.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pirate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/politics.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/politics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/science_fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/science_fiction.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +44,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="all_books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">

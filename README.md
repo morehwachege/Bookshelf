@@ -65,6 +65,7 @@ Use it freely but please do not republish, distribute or sell "as-is". [Read mor
 👋 Is currently running.
 Click [Live-Demo](https://frozen-fjord-26216.herokuapp.com/)
 Explore it and feel free to drop your feedback.
+Note that it might take a few seconds to load because Heroku puts the app to 'sleep' after 30 minutes of inactivity
 
 ## Misc
 Follow morehwachege: [Website](https://www.librarie.co.ke), [Linkedin](https://linkedin.com/in/antonymuriithi), [Twitter](https://twitter.com/morehwachege), [Facebook](https://facebook.com/morehwachege)
